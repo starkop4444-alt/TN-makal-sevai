@@ -1,0 +1,6 @@
+{
+  "name": "TN Makkal Sevai - Civic Action & Grievance Portal",
+  "description": "Tamil Nadu 4-Role Civic Action & Grievance Governance System: Citizen Registration & Feed, Supervisor Triage & Budget Formulation, Contractor Project Bidding & Execution, and CM Special Cell Reconsideration & Work Order Sanction.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
